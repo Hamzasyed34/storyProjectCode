@@ -1,0 +1,7 @@
+import os
+
+
+os.system("clear") #This code will clear the previouse outputs from git to keep the screen clear
+
+
+print("hello")
